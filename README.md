@@ -1,1 +1,1 @@
-# LiveChatapp
+# A real time chatting app no data base simple use of js library *socket.io*

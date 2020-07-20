@@ -1,0 +1,21 @@
+{
+  "name": "chat_project_2",
+  "version": "1.0.0",
+  "description": "Live chat site with different rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Aditya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "moment-timezone": "^0.5.31",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
